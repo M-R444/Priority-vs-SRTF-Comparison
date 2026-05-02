@@ -1,0 +1,13 @@
+# تجاهل ملفات التشغيل
+*.class
+*.log
+*.tmp
+
+# تجاهل ملفات برنامج NetBeans
+nbproject/private/
+build/
+dist/
+
+# تجاهل ملفات الويندوز والماك الزيادة
+.DS_Store
+Thumbs.db
